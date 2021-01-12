@@ -1,0 +1,4 @@
+<a class="weatherwidget-io" href="https://forecast7.com/en/59d3318d07/stockholm/" data-label_1="STOCKHOLM" data-label_2="Sweden" data-icons="Climacons Animated" data-theme="original" >STOCKHOLM Sweden</a>
+<script>
+!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='https://weatherwidget.io/js/widget.min.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');
+</script>
